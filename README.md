@@ -3,7 +3,8 @@
 I'm a Data Scientist from Berlin, Germany!
 
 - 🌱 I’m currently studying Reinforcement Learning Techniques in Python
-- 👯 I’m looking to collaborate on Chess A.I. related projects :chess_pawn:
+- 👯 I’m looking to collaborate on Recommender System and Chess A.I. related projects
+- 💚 I love cooking 👨‍🍳, making music 🎹 and chess ♟️
 
 ### Feel free to reach out! :smiley:
 
