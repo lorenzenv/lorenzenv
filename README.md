@@ -6,7 +6,7 @@ I'm a Data Scientist from Berlin, Germany!
 - 👯 I’m looking to collaborate on Recommender System and Chess A.I. related projects
 - 💚 I love cooking 👨‍🍳, making music 🎹 and chess ♟️
 
-### Feel free to reach out! :smiley:
+### Feel free to reach out!
 
 [<img align="left" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/lorenzenv/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:valentinlorenzen@gmail.com)
