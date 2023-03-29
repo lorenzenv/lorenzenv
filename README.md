@@ -2,9 +2,9 @@
 
 I'm a Data Scientist from Berlin, Germany!
 
-- 🌱 I’m currently studying Reinforcement Learning Techniques in Python
-- 👯 I’m looking to collaborate on Recommender System and Chess A.I. related projects
-- 💚 I love cooking 👨‍🍳, making music 🎹 and chess ♟️
+- 🌱 I’m currently watching Robert Miles on YouTube!
+- 👯 I’m looking to collaborate on any Chess related projects
+- 💚 I love chess, tinkering and building stuff. 
 
 ### Feel free to reach out!
 
