@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Data Scientist from Berlin, Germany!
+I'm a Data Scientist from Berlin, Germany.
 
 - 🌱 I’m currently watching Robert Miles on YouTube!
 - 👯 I’m looking to collaborate on any Chess related projects
